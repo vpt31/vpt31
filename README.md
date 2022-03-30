@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vpt31
 - 👀 I’m interested in web code
-- 🌱 I’m currently learning openclassroom
+- 🌱 I’m currently learning with openclassroom
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
